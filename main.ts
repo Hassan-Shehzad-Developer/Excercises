@@ -50,3 +50,19 @@ let famousPerson: "Ali Ibn Abi Talib";
 console.log("Surely silence can sometimes be the most eloquent reply");
 
 console.log(`{famousPerson} "{message}"`);
+
+// Excercise no 6
+
+// Stripping Names:
+
+// Store the person's name with whitespace characters
+
+let myName = "\t  Hassan \n";
+
+console.log("nameWithWhiteSpace = ", myName);
+
+// Strip whitespace characters from the beginning and end of the name
+
+let strippedName = myName.trim();
+
+console.log("Stripped Name:", strippedName);

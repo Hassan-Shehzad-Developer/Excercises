@@ -23,3 +23,11 @@ console.log("\"".concat(qoute, "\""));
 var famousPerson;
 console.log("Surely silence can sometimes be the most eloquent reply");
 console.log("{famousPerson} \"{message}\"");
+// Excercise no 6
+// Stripping Names:
+// Store the person's name with whitespace characters
+var myName = "\t  Hassan \n";
+console.log("nameWithWhiteSpace = ", myName);
+// Strip whitespace characters from the beginning and end of the name
+var strippedName = myName.trim();
+console.log("Stripped Name:", strippedName);
