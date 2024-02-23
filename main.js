@@ -46,3 +46,8 @@ console.log("4*2 = ", c);
 var d = 32 / 4;
 console.log("32/4 = ", d);
 console.log("Addition,substruction,multiplication,division");
+// Excercise no 9
+// Favorite Number:
+var favoriteNum = 14;
+var number = "My favorite number is \"".concat(favoriteNum, "\"");
+console.log(number);

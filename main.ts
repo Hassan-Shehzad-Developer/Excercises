@@ -92,3 +92,13 @@ let d = 32 / 4;
 console.log("32/4 = ", d);
 
 console.log("Addition,substruction,multiplication,division");
+
+// Excercise no 9
+
+// Favorite Number:
+
+let favoriteNum = 14;
+let number = `My favorite number is "${favoriteNum}"`;
+
+console.log(number);
+
