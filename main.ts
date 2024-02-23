@@ -36,6 +36,17 @@ console.log(
 
 // Famous Quote:
 
-let qoute = "Patience ensures victory.";
+let qoute =
+  "Quid-e-Azam Muhammad Ali Jinnah once said, Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.";
 
 console.log(`"${qoute}"`);
+
+// Excercise no 5
+
+// Famous Quote 2
+
+let famousPerson: "Ali Ibn Abi Talib";
+
+console.log("Surely silence can sometimes be the most eloquent reply");
+
+console.log(`{famousPerson} "{message}"`);

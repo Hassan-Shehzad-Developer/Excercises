@@ -16,5 +16,10 @@ console.log("upperCase = ", personName.toUpperCase());
 console.log("toTitleCase = ", personName.toLocaleLowerCase().replace(/\b\w/g, function (char) { return char.toUpperCase(); }));
 // Excercise no 4
 // Famous Quote:
-var qoute = "Patience ensures victory.";
+var qoute = "Quid-e-Azam Muhammad Ali Jinnah once said, Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.";
 console.log("\"".concat(qoute, "\""));
+// Excercise no 5
+// Famous Quote 2
+var famousPerson;
+console.log("Surely silence can sometimes be the most eloquent reply");
+console.log("{famousPerson} \"{message}\"");
