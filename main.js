@@ -31,3 +31,18 @@ console.log("nameWithWhiteSpace = ", myName);
 // Strip whitespace characters from the beginning and end of the name
 var strippedName = myName.trim();
 console.log("Stripped Name:", strippedName);
+// Excercise no (7,8)
+// 7. Number Eight:  8. You should create four lines that look like this:
+//Addition for getting number 08
+var a = 5 + 3;
+console.log("5+3 = ", a);
+//Substraction for getting number 08
+var b = 10 - 2;
+console.log("10-2 = ", b);
+//Multiplication for getting number 08
+var c = 4 * 2;
+console.log("4*2 = ", c);
+//Division for getting number 08
+var d = 32 / 4;
+console.log("32/4 = ", d);
+console.log("Addition,substruction,multiplication,division");
