@@ -14,3 +14,7 @@ console.log("lowerCase = ", personName.toLowerCase());
 console.log("upperCase = ", personName.toUpperCase());
 // TitleCase
 console.log("toTitleCase = ", personName.toLocaleLowerCase().replace(/\b\w/g, function (char) { return char.toUpperCase(); }));
+// Excercise no 4
+// Famous Quote:
+var qoute = "Patience ensures victory.";
+console.log("\"".concat(qoute, "\""));

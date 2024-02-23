@@ -31,3 +31,11 @@ console.log(
   "toTitleCase = ",
   personName.toLocaleLowerCase().replace(/\b\w/g, (char) => char.toUpperCase())
 );
+
+// Excercise no 4
+
+// Famous Quote:
+
+let qoute = "Patience ensures victory.";
+
+console.log(`"${qoute}"`);
