@@ -36,8 +36,7 @@ console.log(
 
 // Famous Quote:
 
-let qoute =
-  "Quid-e-Azam Muhammad Ali Jinnah once said, Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.";
+let qoute = "Patience ensures victory.";
 
 console.log(`"${qoute}"`);
 
@@ -101,4 +100,3 @@ let favoriteNum = 14;
 let number = `My favorite number is "${favoriteNum}"`;
 
 console.log(number);
-
