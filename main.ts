@@ -1,8 +1,4 @@
-// Excercise no 4
-// Famous Quote:
 
-let qoute = "Patience ensures victory";
-console.log(qoute);
 
 // Excercise no 5
 // Famous Quote 2

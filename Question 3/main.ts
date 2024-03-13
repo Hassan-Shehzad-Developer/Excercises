@@ -1,5 +1,7 @@
-// Excercise no 3
-//  Name Cases:   1. lowerCase,  2. uperCase, 3. TitleCase
+// Excercise no 3:
+//  Name Cases: Store a person’s name in a variable,and 
+//  then print that person’s name in lowercase, uppercase, and titlecase.
+
 
 {
   let personName = "Hassan";
