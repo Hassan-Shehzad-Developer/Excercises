@@ -1,22 +1,3 @@
-// Excercise no 3
-//  Name Cases:
-// lowerCase
-// uperCase
-// TitleCase
-{
-  let personName = "Hassan";
-  console.log("personName");
-
-  console.log("lowerCase = ", personName.toLowerCase());
-  console.log("upperCase = ", personName.toUpperCase());
-  console.log(
-    "toTitleCase = ",
-    personName
-      .toLocaleLowerCase()
-      .replace(/\b\w/g, (char) => char.toUpperCase())
-  );
-}
-
 // Excercise no 4
 // Famous Quote:
 

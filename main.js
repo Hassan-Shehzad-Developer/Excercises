@@ -1,17 +1,3 @@
-// Excercise no 3
-//  Name Cases:
-// lowerCase
-// uperCase
-// TitleCase
-{
-    var personName = "Hassan";
-    console.log("personName");
-    console.log("lowerCase = ", personName.toLowerCase());
-    console.log("upperCase = ", personName.toUpperCase());
-    console.log("toTitleCase = ", personName
-        .toLocaleLowerCase()
-        .replace(/\b\w/g, function (char) { return char.toUpperCase(); }));
-}
 // Excercise no 4
 // Famous Quote:
 var qoute = "Patience ensures victory";
