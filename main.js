@@ -1,5 +1,3 @@
-// Excercise no 1: Install Node.js ,TypeScript, VS Code install on your computer.
-// I have installed Java, TypeScript, and Visual Studio Code. on your computer
 // Excercise no 2:
 // Personal Message: Store a person’s name in a variable, and print a message to that person.
 // Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
