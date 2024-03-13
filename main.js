@@ -1,8 +1,3 @@
-// Excercise no 5
-// Famous Quote 2
-var famousPerson;
-var message = "Surely silence can sometimes be the most eloquent reply";
-console.log(message);
 // Excercise no 6
 // Stripping Names:
 // Store the person's name with whitespace characters
