@@ -1,15 +1,4 @@
-// Excercise no 6
-// Stripping Names:
-// Store the person's name with whitespace characters
 
-let myName = "\t  Hassan \n";
-console.log("nameWithWhiteSpace = ", myName);
-
-// Strip whitespace characters from the beginning and end of the name
-
-let strippedName = myName.trim();
-
-console.log("Stripped Name:", strippedName);
 
 // Excercise no (7,8)
 

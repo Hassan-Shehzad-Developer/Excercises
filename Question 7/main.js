@@ -26,6 +26,3 @@
     var divi = 72 / 9;
     console.log("Division: 72 / 9 =", divi);
 }
-// console.log("Subtraction:",`, sub)
-// console.log("Multiplication:",`multiplication=`, multi); 
-//  console.log("Division:",`division=`, divi);
