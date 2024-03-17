@@ -1,20 +1,5 @@
-// Excercise no (7,8)
-// 7. Number Eight:  8. You should create four lines that look like this:
-//Addition for getting number 08
-//Substraction for getting number 08
-//Multiplication for getting number 08
-//Division for getting number 08
-var a = 5 + 3;
-console.log("5+3 = ", a);
-var b = 10 - 2;
-console.log("10-2 = ", b);
-var c = 4 * 2;
-console.log("4*2 = ", c);
-var d = 32 / 4;
-console.log("32/4 = ", d);
-console.log("Addition,substruction,multiplication,division");
 // Excercise no 9
 // Favorite Number:
-var favoriteNum = 14;
-var number = "My favorite number is ".concat(favoriteNum);
-console.log(number);
+// let favoriteNum = 14;
+// let number = `My favorite number is ${favoriteNum}`;
+// console.log(number);
