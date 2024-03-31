@@ -29,5 +29,6 @@
     guestlist.push("Salman");
     for (let i = 0; i < guestlist.length; i++) {
         console.log(guestlist[i]);
+        // New guestlist = {"Faraz","Ramzan","Waqar","Sheraz","Daniyal","Salman"}
     }
 }
