@@ -15,3 +15,4 @@ console.log(StudentResult);
 StudentResult.forEach(StudentResult => {
 console.log(`StudentResult: ${StudentResult.name}, Class: ${StudentResult.Class}, SecuredMarks: ${StudentResult.SecuredMarks}, Grade: ${StudentResult.Grade}`)});
 
+
