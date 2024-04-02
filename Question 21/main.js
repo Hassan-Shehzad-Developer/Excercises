@@ -1,7 +1,7 @@
 "use strict";
 // Exercise no 21:
 // They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
-// Define TypeScript objects for storing information about Students:
+// Define TypeScript objects for storing information about Students Result:
 let StudentResult = [
     { name: "Hassan", Class: "10th", SecuredMarks: 88, Grade: "A" },
     { name: "Sheraz", Class: "10th", SecuredMarks: 90, Grade: "A" },
