@@ -4,3 +4,45 @@
 // console.log(car == 'subaru')
 // • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
+
+let number = 10;
+
+// Test 1
+console.log("Is number === 10? I predict True.");
+console.log(number === 10);
+
+// Test 2
+console.log("Is number !== 5? I predict True.");
+console.log(number !== 5);
+
+// Test 3
+console.log("Is number < 15? I predict True.");
+console.log(number < 15);
+
+// Test 4
+console.log("Is number > 5? I predict True.");
+console.log(number > 5);
+
+// Test 5
+console.log("Is number <= 10? I predict True.");
+console.log(number <= 10);
+
+// Test 6
+console.log("Is number >= 10? I predict True.");
+console.log(number > 10);
+
+// Test 7
+console.log("Is number === 5? I predict False.");
+console.log(number === 5);
+
+// Test 8
+console.log("Is number !== 10? I predict False.");
+console.log(number !== 10);
+
+// Test 9
+console.log("Is number < 5? I predict False.");
+console.log(number < 5);
+
+// Test 10
+console.log("Is number > 20? I predict False.");
+console.log(number > 20);
